@@ -1,0 +1,9 @@
+[package]
+name = "scylladbPOC"
+version = "0.1.0"
+authors = ["rsb007 <rahul.sing@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
+cdrs = "2.0.0-beta.4"
+mocktopus = "0.5.0"
